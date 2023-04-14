@@ -1,16 +1,11 @@
-# chit_chat
+# Zee Palm UI Code
 
-A new Flutter project.
+Social App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes Social App UI with multiple screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/128903428/232055052-a5d46cbc-40fe-4c6e-8307-f497f7f0c255.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/232055431-4f96a7bc-27aa-4276-9ee6-7b26c18fb059.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/232055954-6f2b8961-368d-4ae1-9ed5-d892cd87b4e3.png" width="200" height="400" />
